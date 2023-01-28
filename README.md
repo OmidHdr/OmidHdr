@@ -32,8 +32,8 @@
 
 
 
-<img align="right" width="310" src="https://github-readme-stats.vercel.app/api?username=OmidHdr&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="OmidHeidary GitHub Stats">
-<img width="310" src="https://github-readme-streak-stats.herokuapp.com/?user=OmidHdr&count_private=true&theme=radical" alt="OmidHeidary" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=OmidHdr&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="OmidHeidary GitHub Stats">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=OmidHdr&count_private=true&theme=radical" alt="OmidHeidary" />
 <img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmidHdr&layout=compact&theme=radical" alt="OmidHeidary" />
 
 
