@@ -7,7 +7,7 @@
 
 <div align="center">
  <p>
- <a href="https://www.linkedin.com/in/omid-heidary-426364265/">
+ <a href="https://www.linkedin.com/in/omid-heidary-43a63a1bb/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
  </a>
   <a href="https://www.youtube.com/@sudo-h0p3">
