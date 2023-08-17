@@ -19,6 +19,21 @@
  </p>
 </div>
 
+
+<h1 align="center">hey there 👋</h1>
+
+
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+
+
+<p align="left">I'm Omid Heidary from Iran<br><br>- 🔭 I’m working as Java Back-end Developer<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time I learn Java Script</p>
+
+
+<h3 align="left">🛠 Language and tools</h3>
+
+
 <br>
 <p align="center">
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
