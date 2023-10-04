@@ -1,4 +1,4 @@
-<h3 title="hehehe" align="center"> Hey 👋, I'm Omid Heidary!</h3>
+<h3 title="Hello" align="center"> Hey 👋, I'm Omid Heidary!</h3>
 <h4 align="center"> A <b >Java DEVELOPMENT</b> Enthusiast 🚀.</h4>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </div>
 
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 
 
