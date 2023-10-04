@@ -24,7 +24,7 @@
 
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 
 
@@ -58,12 +58,16 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true"></code>
 </p>
 
+<br><br>
+<p align="center">
 
+<img class="center" width="400" src="https://github-readme-stats.vercel.app/api?username=OmidHdr&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="OmidHeidary GitHub Stats">
 
+</p>
 <!--
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=OmidHdr&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="OmidHeidary GitHub Stats">
--->
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=OmidHdr&count_private=true&theme=radical" alt="OmidHeidary" />
+-->
+<br><br>
 <img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmidHdr&layout=compact&theme=radical" alt="OmidHeidary" />
 
 
