@@ -28,9 +28,12 @@
 
 
 
-<p align="left">I'm Omid Heidary from Iran<br><br>- 🔭 I’m working as Java Back-end Developer<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time I learn Java Script</p>
+<p align="left">I'm Omid Heidary from Iran<br><br>- 🔭 I’m working as Java Back-end Developer<br>- 📚 I'm currently learning Kafka and Microservices<br>- ⚡ In my free time I learn Java Script</p>
 
-
+<p align="left"> Stay free to know a little more about my life, follow me on my networks where I share a little more about my self. </p>
+<p align="left">I Love to learn</p>
+<p align="left">I really like the challenge</p>
+<p align="left">I like chess</p>
 <h3 align="left">🛠 Language and tools</h3>
 
 
