@@ -1,4 +1,4 @@
-<h3 title="Hello" align="center"> Hey 👋, I'm Omid Heidary!</h3>
+<h3 title="Hello" align="center"> Hey 👋, I'm Omid Heydari!</h3>
 <h4 align="center"> A <b >Java DEVELOPMENT</b> Enthusiast 🚀.</h4>
 
 <p align="center">
@@ -13,9 +13,6 @@
   <a href="https://www.youtube.com/@sudo-h0p3">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/omidoneof1">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
  </p>
 </div>
 
@@ -28,9 +25,9 @@
 
 
 
-<p align="left">I'm Omid Heidary from Iran<br><br>- 🔭 I’m working as Java Back-end Developer<br>- 📚 I'm currently learning Kafka and Microservices<br>- ⚡ In my free time I learn Java Script</p>
+<p align="left">I'm Omid Heydari from Iran<br><br>- 🔭 I’m working as Java Back-end Developer<br>- 📚 I'm currently learning Kafka and Microservices<br>- ⚡ In my free time I learn Java Script</p>
 
-<p align="left"> Stay free to know a little more about my life, follow me on my networks where I share a little more about my self. </p>
+<p align="left"> Feel free to know a little more about my life, follow me on my networks where I share a little more about myself. </p>
 <p align="left">I Love to learn</p>
 <p align="left">I really like the challenge</p>
 <p align="left">I like chess</p>
@@ -68,7 +65,7 @@
 
 </p>
 <!--
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=OmidHdr&count_private=true&theme=radical" alt="OmidHeidary" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=OmidHdr&count_private=true&theme=radical" alt="OmidHeydari" />
 -->
 <br><br>
 <img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmidHdr&layout=compact&theme=radical" alt="OmidHeidary" />
